@@ -14,7 +14,7 @@ import Register from './components/Auth/Register';
 import MealsList from './components/Meals/MealsList';
 import MealDetail from './components/Meals/MealDetail';
 import AddMealForm from './components/Meals/AddMealForm';
-import TodayMeals from './components/Meals/TodayMeals';
+import TodayMeals from './components/Meals/TodayMeal';
 import Profile from './components/Profile/Profile';
 import Statistics from './components/Statistics/Statistics';
 import UsersList from './components/Users/UsersList';
